@@ -29,7 +29,7 @@ print(f"{cyan}{bold}Sajadtlpr{end}")
 
 print(f"{bold}twitter{end}", end="")
 print(f"{green}{bold} >> {end}", end="")
-print(f"{cyan}{bold}@Sajadtlpr{end}")
+print(f"{cyan}{bold}.    @Sajadtlpr/Hitlosofficial{end}")
 print()
 
 # inputs
