@@ -38,14 +38,13 @@ print(f"{cyan}{bold}@Sajadtlpr{end}")
 print()
 
 # inputs
-print('enter the number without or with prefixes (+7) (8)\nexample: 9018017010')
-input_number = input(green + bold + ">> " + end)
-print('Ios or android to crash?:')
-print('Time of executions...select time to continue atks?')
-sms = int(input(green + bold + ">> " + end))
+print('\x1b[32;1m' + 'enter the number without or with prefixes (+7) (8)\nexample: 9018017010' + '\x1b[0m')
+input_number = input('\x1b[32;1m\x1b[1m>> \x1b[0m')
+print('\x1b[32;1mIos or android to crash?:\nTime of executions...select time to continue atks?' + '\x1b[0m')
+sms = int(input('\x1b[32;1m\x1b[1m>> \x1b[0m'))
 
-print(f"you need a{cyan} tor {end}y/n? ")
-is_tor = input(bold + green + ">> " + end)
+print(f"you need a\x1b[36;1m tor \x1b[0my/n? ")
+is_tor = input('\x1b[1m\x1b[32m>> \x1b[0m')
 
 
 def parse_number(number):
