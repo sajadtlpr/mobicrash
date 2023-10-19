@@ -1,8 +1,8 @@
-#  ni_bomber
-![alt text](img/test.jpg)
+#  Mobicrash
+
 <br/>
 <b>Hey!</b>
-This is a small sms bomber, the number of<br/>
+This is a mobile crasher with sms bombing, the number of<br/>
 sms sent per second depends on the speed<br/>
 of your internet. If you use this bomber<br/>
 at the same time  by several people, you<br/>
@@ -14,9 +14,9 @@ upd:
 <b>Valid only for Russian numbers!</b>
 
 # Install
-git clone https://github.com/Nikait/ni_bomber
+git clone https://github.com/Sajadtlpr/mobicrash
 
-cd ni_bomber
+cd mobicrash
 
 pip3 install -r requirements.txt
 
@@ -24,7 +24,7 @@ pip3 install -r requirements.txt
 
 python3 ni_bomber.py
 
-Relax! 
+This tool ua used for education and project works only .
 
 # mobicrash
 # mobicrash
