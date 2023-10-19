@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 
 
 
-python3 ni_bomber.py
+python3 mobicrash.py
 
 This tool ua used for education and project works only .
 
